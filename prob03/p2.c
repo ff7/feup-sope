@@ -22,5 +22,5 @@ int main(void) {
 } 
 
 // Se fizermos o write aparece esta sequencia: 123 45
-// Se fizermos printf sem o \n aparece: 12345
+// Se fizermos printf sem o \n aparece: 123145
 // Se fizermos printf com o \n aparece: 123 145
